@@ -1,15 +1,36 @@
+# ⚔️ Pokémon Battles — Fan Tribute Site
 
-# pokemon-battles
-Semifinal battle between Ash and Cynthia
-https://rajveer-singh8124.github.io/Ash-vs-Cynthia/
+A fan-made, interactive web page showcasing Ash Ketchum’s legendary battles, achievements, and career highlights from the Pokémon series. Built with **Bootstrap 5** and **Font Awesome**, this lightweight site offers a playful interface with videos, image slideshows, and Ash’s badge collection journey.
 
-# part 1 
+---
 
-the semifinals match between Ash and Cynthia, and through the battle she has already proven why she was the Number 2 ranked trainer in the world overall. The semifinals changed things around as both trainers are allowed to use a full team of six for the battle this time around, and Cynthia is using that to her advantage. Using a Spirtomb, Togekiss, and Roserade, and switching them out to use the best of her abilities, she quickly took out three of Ash's Pokemon as the episode came to an end. 
-# part 2
-Ash has been able to take down two members of her team, fans witnessed how the Sinnoh Champion's battle style and strategy utilized lots of switching out and other techniques that really took Ash by surprise. At the same time, it's also clear that Ash has begun catching onto Cynthia's tactics so far as he has begun shifting the momentum back in his direction. 
+## 🌐 Live Demo
 
-Despite losing his Pikachu (and Cynthia still having her main partner, Garchomp), he's still got some powerhouses left on his team and is far from out of this battle already. Ash might have been winning each of his battles so far, but this is the point in the tournament where fans are starting to get quite nervous as there is no clear indication that he will be able to defeat Cynthia at this point. This could be it, but we'll see how it all shakes out. 
-# part 3
-Do you think Ash will be able to beat Cynthia and move on to the grand finals? How do you think he can pull it off?
-"# Ash-vs-Cynthia" 
+🚀 [Check it out here!](https://rajveer-singh8124.github.io/Ash-vs-Cynthia/)
+
+---
+
+## 📸 Preview
+
+![Screenshot](homepage.png)
+
+---
+
+## ✨ Features
+
+- 📖 **About Ash Ketchum** — Brief story of Ash and his ambition to become the greatest Pokémon Master.
+- 🏆 **Achievements Section** — Showcasing badges earned and league results throughout the regions.
+- 🎥 **Interactive Battle Carousel** — Video highlights and summaries of iconic Ash vs Cynthia battles.
+- 📫 **Contact Section** — Social media icons (GitHub, Email) and copyright.
+
+---
+
+## 🛠️ Built With
+
+- **HTML5**
+- **CSS3**
+- **Bootstrap 5**
+- **Font Awesome 5**
+- **JavaScript**
+
+---
